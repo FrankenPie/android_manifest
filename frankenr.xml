@@ -4,7 +4,7 @@
            fetch="https://github.com/" />
 
   <remote  name="franken"
-           fetch="https://github.com/FrankenRomP"
+           fetch="https://github.com/FrankenPie"
            revision="pie" 
            sync-j="12" />
 
