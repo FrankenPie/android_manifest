@@ -13,10 +13,12 @@ To initialize your local repository using the FrankenRomP trees, use a command l
 
 Then to sync up:
 
-    repo sync -j8
+    repo sync -f --force-sync
+
+Then use below build commands
     
 . build/envsetup.sh
-breakfast device name
+breakfast device name(eg:franken_sanders-userdebug)
 time mka franken
 
 Profit!
